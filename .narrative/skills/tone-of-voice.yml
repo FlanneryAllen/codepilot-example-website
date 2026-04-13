@@ -1,0 +1,12 @@
+version: "1.0"
+last_updated: 2026-04-13
+owner: FlanneryAllen
+voice:
+  name: Brand Voice
+  summary: Confident without being loud. Technical without being cold.
+  principles: []
+terminology:
+  forbidden:
+    - datadog
+    - cisco
+    - revolutionary
