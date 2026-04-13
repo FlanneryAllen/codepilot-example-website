@@ -1,0 +1,16 @@
+version: "1.0"
+last_updated: 2026-04-13
+brand:
+  companyName: CodePilot AI's friend
+  neverWriteAs: []
+  products: []
+  forbiddenTerms:
+    - datadog
+    - cisco
+    - revolutionary
+products: []
+terminology:
+  forbidden:
+    - datadog
+    - cisco
+    - revolutionary
