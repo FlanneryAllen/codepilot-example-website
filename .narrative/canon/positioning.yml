@@ -1,0 +1,19 @@
+version: "1.0"
+last_updated: 2026-04-13
+owner: FlanneryAllen
+units:
+  - id: ai_is
+    type: positioning
+    assertion: AI is not secure.
+    dependencies: []
+    confidence: 0.9
+  - id: we_secure
+    type: positioning
+    assertion: we secure AI 72 percent
+    dependencies: []
+    confidence: 0.9
+  - id: we_use
+    type: positioning
+    assertion: We use our magic by saying ta-dah
+    dependencies: []
+    confidence: 0.9
