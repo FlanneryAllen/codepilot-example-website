@@ -1,0 +1,9 @@
+version: "1.0"
+last_updated: 2026-04-13
+owner: FlanneryAllen
+units:
+  - id: ai_is
+    type: core_story
+    assertion: "AI is the best thing in the whole world "
+    dependencies: []
+    confidence: 1
